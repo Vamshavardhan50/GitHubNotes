@@ -1,3 +1,13 @@
+## ✨ Creator
+
+**Chintha Vamsha Vardhan**
+
+- 🔗 GitHub: https://github.com/Vamshavardhan50  
+- 📧 Email: chintha.vamshavardhan50@gmail.com  
+
+💡 *Keep coding, keep growing, and keep creating awesome things!*
+
+---
 # 🚀 Ultimate Git & GitHub Cheatsheet
 
 A simple, powerful guide to mastering version control. From your first commit to open-source contributions.
@@ -184,9 +194,3 @@ You don't want to upload secret keys, huge video files, or system folders to Git
 
 ---
 
-## ✍️ Created By
-
-**[Your Name Here]**
-*   GitHub: [Link to your GitHub profile]
-*   Email: [Your Email]
-*   *Keep coding, keep committing!*
